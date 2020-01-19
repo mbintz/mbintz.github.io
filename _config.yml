@@ -118,13 +118,13 @@ analytics:
 author:
   name             : "Marcus Bintz"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Physics PhD student at UC Berkeley"
+  #bio              : 
   #location         : "UC Berkeley"
-  email            : "mbintz@berkeley.edu"
+  #email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url:  "mbintz@berkeley.edu"
+      url:  "mbintz@berkeley.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -140,6 +140,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
+
 
 # Site Footer
 footer:

@@ -5,13 +5,14 @@
 @charset "utf-8";
 
 $background-color: #FDEBD3;
-$body-color: #557872;
 $text-color: #332F30;
 $muted-text-color: #786362;
 $primary-color: #E43E4C;
 $link-color: $primary-color;
 $border-color: #261909;
 $footer-background-color: #D9E6BB;
+$intro-transition  : none;
+$global-transition : none;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
