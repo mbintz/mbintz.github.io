@@ -117,20 +117,20 @@ analytics:
 # Site Author
 author:
   name             : "Marcus Bintz"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Physics PhD Student"
-  location         : "UC Berkeley"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Physics PhD student at UC Berkeley"
+  #location         : "UC Berkeley"
   email            : "mbintz@berkeley.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      #url:  "mbintz@berkeley.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/spurious_bows"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -303,3 +303,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
