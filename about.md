@@ -13,7 +13,7 @@
     A theoretical physicist, now doing my PhD at Harvard University, advised by <a href="https://yao.physics.harvard.edu/">Norman Yao</a>. 
     </p>
     <p>
-    I am designing ways to build unusual magnets atom-by-atom, in collaboration with <a href="https://atom-tweezers-io.org/">Antoine Browaeys’ group</a> at Université Paris-Saclay. 
+    I have been designing ways to build unusual magnets atom-by-atom, in collaboration with <a href="https://atom-tweezers-io.org/">Antoine Browaeys’ group</a> at Université Paris-Saclay. 
     </p>
     <div style="clear: both"></div>      
   </div>
