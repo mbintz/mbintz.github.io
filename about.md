@@ -23,7 +23,4 @@
 
 email: mbintz (at) g (dot) harvard (dot) edu
 
-papers: all on [arXiv](https://arxiv.org/find/all/1/au:+bintz_m/0/1/0/all/0/1)
-
-
-
+papers: all on [arXiv](https://arxiv.org/find/all/1/au:+bintz_m/0/1/0/all/0/1), except [this one](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007034)
